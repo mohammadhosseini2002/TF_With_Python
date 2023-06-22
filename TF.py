@@ -6,3 +6,5 @@ def calculate_tf(word, sentence):
 
 sentence = "This is a Sample is a new book is nice"
 word = "is"
+
+tf = calculate_tf(word, sentence)
